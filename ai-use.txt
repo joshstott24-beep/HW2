@@ -1,0 +1,18 @@
+AI Use – AirAsia Rewards Redemption System HW2
+
+AI Tools Used:
+Claude
+
+Prompts Used:
+
+1. “Review the HW2 instructions, grading rubric, HW1 wireframes, AirAsia Requirements Document, and course readings. Generate the required HTML and CSS using the simplest techniques consistent with what we have learned in class.”
+2. “Keep the code beginner-friendly and avoid advanced techniques, unnecessary complexity, PHP logic, JavaScript, databases, and frameworks.”
+3. “Generate the complete code for each required file so I can manually copy and paste it into GitHub Codespaces.”
+4. “Break down the code line by line and explain what each HTML element, attribute, and CSS rule does so I can review and understand the implementation.”
+5. “Review the generated code against the assignment requirements and grading rubric.”
+
+How AI Supported My Work:
+I used Claude to translate my HW1 wireframes into HTML and CSS, using the course readings as a guideline to keep the code simple and appropriate for what we have learned. Claude also helped me review the code by explaining it line by line. I manually added the code to GitHub Codespaces.
+
+Example of an AI Suggestion Tested:
+Claude generated the navigation links and form actions connecting the five required pages. I reviewed these against the assignment requirements and tested the website in GitHub Codespaces to verify that the links, buttons, and forms directed users to the correct pages.
